@@ -1,0 +1,31 @@
+
+/*Goog CSS BOX*/
+
+*{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+
+.left-card{
+    background-color: blue;
+    /* Goog clearing */
+}
+
+
+.right-card{   
+    background-color: red;  
+}
+
+
+
+
+#sneakers{
+    width: 50%; 
+}
+
+
+.sneaker-spotter{
+    /* box up down left right within container */
+    padding-top: 50px;
+}
